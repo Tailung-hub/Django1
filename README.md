@@ -1,2 +1,2 @@
 # Django1
-# Первый курс Django
+Первый курс Django
